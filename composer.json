@@ -1,0 +1,19 @@
+{
+    "name": "crayonmx/cfdiwrapper",
+    "description": "CFDI Wrapper para aplicaciones en PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Isaac Torres Michel",
+            "email": "izaaksom@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "aura/autoload": "^2.0",
+        "moneyphp/money": "^3.0",
+        "silex/silex": "^2.0",
+        "twig/twig": "^2.1"
+    }
+}
